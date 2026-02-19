@@ -1,4 +1,4 @@
-# uxe-form-validation-bootstrap-ui
+# Form Validation
 
 Front-end sample project demonstrating enterprise-grade validation patterns.
 
